@@ -1,0 +1,55 @@
+.wrapper {
+    width: 1230px;
+    height: 550px;
+    margin-top: 100px;
+    margin-left: 50px;
+    margin-right: 50px;
+    background-color: aquamarine;
+    border-radius: 20px;
+}
+.pin {
+    width: 275px;
+    height: 300px;
+    border-radius: 15px;
+    border: 3px solid green;
+    background-color: aqua;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-size: cover;
+    position: absolute;
+}
+.pin h2 {
+    background-color: antiquewhite;
+    text-align: center;
+    border-radius: 20px;
+}
+.header {
+    position: absolute;
+    left: 360px;
+    font-size: 90px;
+    top: 65px;
+}
+.address {
+    position: relative;
+    left: 450px;
+    bottom: 160px;
+    font-size: large;
+}
+.description {
+    position: relative;
+    top: 80px;
+    left: 100px;
+    width: 1000px;
+    font-size: large;
+}
+.icon {
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    top: 80px;
+    left: 100px;
+    border-radius: 50px;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-size: cover;
+}
